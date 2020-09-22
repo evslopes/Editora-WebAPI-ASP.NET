@@ -1,0 +1,28 @@
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Service.deps.json
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Service.dll
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Service.pdb
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.AssemblyInfo.cs
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.dll
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.pdb
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Domain.dll
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Repository.dll
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Domain.pdb
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Repository.pdb
+C:\Users\rafae\source\repos\infnet\assessement\Editora\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.csproj.CopyComplete
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Service.deps.json
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Service.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Service.pdb
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Domain.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Repository.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Domain.pdb
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\bin\Debug\netcoreapp3.1\Editora.Repository.pdb
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.csprojAssemblyReference.cache
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.AssemblyInfoInputs.cache
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.AssemblyInfo.cs
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.csproj.CoreCompileInputs.cache
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.csproj.CopyComplete
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Service\obj\Debug\netcoreapp3.1\Editora.Service.pdb

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Editora.Domain\Editora.Domain.csproj" />
+    <ProjectReference Include="..\Editora.Repository\Editora.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
