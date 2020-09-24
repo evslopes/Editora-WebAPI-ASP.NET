@@ -30,7 +30,12 @@ namespace Editora.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllers();
             services.AddScoped<UsuarioService>();
+            services.AddTransient<AutorServices>();
+            services.AddTransient<AutorRepository>();
+            services.AddTransient<LivroServices>();
+            services.AddTransient<LivroRepository>();
 
             services.AddDbContext<EditoraContext>(opt =>
             {
@@ -50,7 +55,6 @@ namespace Editora.API
                 o.TokenValidationParameters.IssuerSigningKey = new SymmetricSecurityKey(key);
             });
 
-            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

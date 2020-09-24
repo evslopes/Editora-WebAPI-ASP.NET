@@ -20,7 +20,7 @@ namespace Editora.Repository.Mapping
             builder.Property(x => x.Email).IsRequired();
             builder.Property(x => x.DataNascimento).IsRequired();
 
-            builder.HasMany(x => x.Livros).WithOne(x => x.Autor);
+            builder.HasMany<Livro>(x => x.Livros).WithOne(x => x.Autor);
 
         }
     }

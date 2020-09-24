@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gstvCr6UUZ0YKVovbh4S/hAV7jiUExl8f9DWstR8YS5j8xqKm+8qGuOO2fufpgynB6xwGthxBeZHiPqNI7FoRw==",
+  "dgSpecHash": "eEYZWFyx0XBdDRd3I4jhj3G9PMHR5+85pddjt3cr2dHFrqhfAxo9IimMtdDxjIW9xKpe53BLYI2bHDENis14tQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Repository\\Editora.Repository.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,10 @@
     "C:\\Users\\evslo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
     "C:\\Users\\evslo\\.nuget\\packages\\microsoft.extensions.logging\\3.1.8\\microsoft.extensions.logging.3.1.8.nupkg.sha512",
     "C:\\Users\\evslo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\evslo\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.8\\microsoft.extensions.logging.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\evslo\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.8\\microsoft.extensions.logging.console.3.1.8.nupkg.sha512",
     "C:\\Users\\evslo\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\evslo\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.8\\microsoft.extensions.options.configurationextensions.3.1.8.nupkg.sha512",
     "C:\\Users\\evslo\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
     "C:\\Users\\evslo\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\evslo\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",

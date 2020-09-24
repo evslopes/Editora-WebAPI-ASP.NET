@@ -56,7 +56,7 @@ namespace Editora.Repository.Migrations
                     b.Property<int>("Ano")
                         .HasColumnType("int");
 
-                    b.Property<int?>("AutorId")
+                    b.Property<int>("AutorId")
                         .HasColumnType("int");
 
                     b.Property<string>("ISBN")
@@ -87,7 +87,8 @@ namespace Editora.Repository.Migrations
 
                     b.Property<string>("Password")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(255);
 
                     b.HasKey("Id");
 
@@ -98,7 +99,9 @@ namespace Editora.Repository.Migrations
                 {
                     b.HasOne("Editora.Domain.Autor", "Autor")
                         .WithMany("Livros")
-                        .HasForeignKey("AutorId");
+                        .HasForeignKey("AutorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

@@ -18,7 +18,7 @@ C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.csprojAssemblyReference.cache
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.AssemblyInfoInputs.cache
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.AssemblyInfo.cs
-C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.csproj.CoreCompileInputs.cache
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.csproj.CopyComplete
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.pdb
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_AT\Editora.Repository\obj\Debug\netcoreapp3.1\Editora.Repository.csproj.CoreCompileInputs.cache

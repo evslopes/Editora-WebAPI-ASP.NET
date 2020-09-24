@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Web\\Editora.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Domain\\Editora.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Domain\\Editora.Domain.csproj",
+        "projectName": "Editora.Domain",
+        "projectPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Domain\\Editora.Domain.csproj",
+        "packagesPath": "C:\\Users\\evslo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\evslo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Repository\\Editora.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Repository\\Editora.Repository.csproj",
+        "projectName": "Editora.Repository",
+        "projectPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Repository\\Editora.Repository.csproj",
+        "packagesPath": "C:\\Users\\evslo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\evslo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Domain\\Editora.Domain.csproj": {
+                "projectPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Domain\\Editora.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Service\\Editora.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Service\\Editora.Service.csproj",
+        "projectName": "Editora.Service",
+        "projectPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Service\\Editora.Service.csproj",
+        "packagesPath": "C:\\Users\\evslo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\evslo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Domain\\Editora.Domain.csproj": {
+                "projectPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Domain\\Editora.Domain.csproj"
+              },
+              "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Repository\\Editora.Repository.csproj": {
+                "projectPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Repository\\Editora.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Web\\Editora.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Web\\Editora.Web.csproj",
+        "projectName": "Editora.Web",
+        "projectPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Web\\Editora.Web.csproj",
+        "packagesPath": "C:\\Users\\evslo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\evslo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Domain\\Editora.Domain.csproj": {
+                "projectPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Domain\\Editora.Domain.csproj"
+              },
+              "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Repository\\Editora.Repository.csproj": {
+                "projectPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Repository\\Editora.Repository.csproj"
+              },
+              "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Service\\Editora.Service.csproj": {
+                "projectPath": "C:\\Users\\evslo\\OneDrive\\Estudos\\Faculdade\\Desenvolvimento API Web\\Elvis_Lopes_DR4_AT\\Editora.Service\\Editora.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

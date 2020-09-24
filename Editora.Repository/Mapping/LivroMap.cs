@@ -20,6 +20,7 @@ namespace Editora.Repository.Mapping
             builder.Property(x => x.Titulo).IsRequired();
 
             builder.Property(x => x.AutorId).IsRequired();
+            builder.HasOne<Autor>(x => x.Autor);
 
         }
     }
